@@ -41,6 +41,68 @@ database entries in the audit mode to read student entries.
 
 ![Screenshot1](https://user-images.githubusercontent.com/61103803/80758437-4686b080-8b53-11ea-8d75-48610ced9202.png)
 
+### diagrams
+
+### activity diagram
+
+
+
+
+
+
+![New Doc 2020-05-01 02 16 47_4](https://user-images.githubusercontent.com/61103803/80758403-3d95df00-8b53-11ea-880f-0322b0fac71d.jpg)
+
+
+
+
+
+
+
+### er diagram
+
+
+
+
+
+
+
+
+![New Doc 2020-05-01 02 16 47_3](https://user-images.githubusercontent.com/61103803/80758405-3ff83900-8b53-11ea-9199-ee17e75cdae3.jpg)
+
+
+
+
+
+
+
+### class diagram 
+
+
+
+
+
+
+
+
+
+![New Doc 2020-05-01 02 16 47_2](https://user-images.githubusercontent.com/61103803/80758415-41c1fc80-8b53-11ea-97f3-a85777e0363f.jpg)
+
+
+
+
+
+
+
+### flow diagram 
+
+
+
+
+
+
+
+![New Doc 2020-05-01 02 16 47_1](https://user-images.githubusercontent.com/61103803/80758422-425a9300-8b53-11ea-92ce-53a9b6eb18fc.jpg)
+
 
 
 
